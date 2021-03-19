@@ -81,3 +81,8 @@ button {
 .degrees-celcius {
   font-size: 35px;
 }
+.github {
+  color: black;
+  margin-left: 400px;
+  font-family: "Roboto Condensed", sans-serif;
+}
